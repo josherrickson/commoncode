@@ -3,7 +3,7 @@ airquality$Month <- as.factor(airquality$Month)
 
 mod <- lm(Ozone ~ Wind + Temp * Month, data=airquality)
 
-# multcomp 1.4.4 on OS X
+# multcomp 1.4.4
 library(multcomp)
 
 # Create a row vector (matrix) that sums of 1. Each entry corresponds

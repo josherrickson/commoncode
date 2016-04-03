@@ -2,6 +2,7 @@ data(airquality)
 airquality$Month <- as.factor(airquality$Month)
 mod <- lm(Ozone ~ Solar.R*Month, data=airquality)
 
+# lsmeans 2.23
 library(lsmeans)
 # Obtain estimated slope in each subgroup.
 # Requires continuous*categorical interaction to be interesting
