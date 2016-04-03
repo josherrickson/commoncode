@@ -20,9 +20,8 @@ who may have little experience in the language, so solutions which require a CS 
 
 ### Getting started with Git
 
-I recommend everyone use Git [^Which is distinct from Github. Git is the software, Github is an online warehouse for git repositories. Other
-online providers include [bitbucket.org](https://bitbucket.org) and [gitlab.com](https://about.gitlab.com).]. There are various tutorials and
-guides online, e.g. (Github Guides)[https://guides.github.com].
+I recommend everyone use Git and contribute either via the command line or the [Github Desktop](https://desktop.github.com). There are various
+tutorials and guides online, e.g. [Github Guides](https://guides.github.com).
 
 It is possible to contribute to repositories on Github via the website, without using Git locally. While I generally am opposed to this, since this
 repository does not testing or compiling, it should be fine.
