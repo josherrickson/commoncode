@@ -20,4 +20,4 @@ who may have little experience in the language, so solutions which require a CS 
 
 ## License
 
-See LICENSE for full details, but this is under the Unlicense, so you can do anything you want except hold me liable!
+Released under the CC0, so do whatever you want, and don't hold me liable. See LICENSE for full legalese.
