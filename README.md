@@ -24,7 +24,7 @@ I recommend everyone use Git and contribute either via the command line or the [
 tutorials and guides online, e.g. [Github Guides](https://guides.github.com).
 
 It is possible to contribute to repositories on Github via the website, without using Git locally. While I generally am opposed to this, since this
-repository does not testing or compiling, it should be fine.
+repository does not require testing or compiling, it should be fine.
 
 ## License
 
