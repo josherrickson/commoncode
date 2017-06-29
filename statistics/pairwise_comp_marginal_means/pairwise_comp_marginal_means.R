@@ -8,7 +8,7 @@ summary(orange.lm <- lm(sales1 ~ day + price1, data = oranges))
 # lsmean for Day 2 is (Intercept) + mean(price1)*beta_price1 + beta_day2
 (days.pmm <- pmmeans(orange.lm, "day"))
 # Create all pairwise comparisons
-(pairs.days <- pairs(days.pmm))
+(pairs.days <- pairs(days.pmm, adjust = "none"))
 plot(days.pmm)
 plot(pairs.days)
 
